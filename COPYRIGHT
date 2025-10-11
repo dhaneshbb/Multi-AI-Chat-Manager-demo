@@ -1,0 +1,62 @@
+COPYRIGHT NOTICE
+
+Multi-AI Chat Manager Demo
+Copyright © 2025 dhaneshbb
+All Rights Reserved.
+
+LICENSE
+This project is licensed under the MIT License. See LICENSE file for details.
+
+PROTECTED MATERIALS
+The following UI/visual materials are original works protected by copyright:
+
+1. UI DESIGN & VISUAL ASSETS
+   - Application interface design shown in screenshots (docs/png/)
+   - UI layout and visual design in animations (docs/gif/)
+   - Application icon and branding elements
+   - Color schemes, typography, and visual styling of the interface
+
+OPEN MATERIALS (MIT Licensed)
+The following are freely available under MIT License:
+
+1. DOCUMENTATION
+   - All documentation in docs/ (architecture, features, usage)
+   - Mermaid diagrams and technical specifications
+   - Concept explanations and workflow descriptions
+
+2. CODE EXAMPLES
+   - All educational code examples in docs/examples/
+   - Configuration examples and templates
+   - Implementation concepts and patterns
+
+USAGE RIGHTS
+Under the MIT License, you may freely:
+- Use all documentation and concepts for any purpose
+- Reference and reuse architectural patterns
+- Copy and modify code examples
+- Create your own implementations based on these concepts
+- Use for commercial or non-commercial projects
+
+UI DESIGN RESTRICTIONS
+For the UI design/visual interface only:
+- Do not copy the exact visual design for commercial use
+- Do not claim the UI design as your own work
+- Inspired designs are welcome (concepts are free to use)
+- Screenshots should credit original source if reused
+
+SUMMARY
+- Documentation & Concepts: Freely available (MIT License)
+- UI Design & Interface: Copyright protected (ask for commercial use)
+- Code Examples: Freely available (MIT License)
+
+THIRD-PARTY CONTENT
+Screenshots and demonstrations may show third-party applications for educational
+purposes only. All third-party trademarks and brands remain property of their
+respective owners.
+
+CONTACT
+For UI design licensing or questions:
+- GitHub: dhaneshbb
+- Project: https://github.com/dhaneshbb/Multi-AI-Chat-Manager-demo
+
+Last Updated: 2025-10-11

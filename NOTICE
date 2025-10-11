@@ -1,0 +1,42 @@
+Multi-AI Chat Manager Demo
+Copyright (c) 2025 dhaneshbb
+
+Licensed under the MIT License.
+SPDX-License-Identifier: MIT
+
+NOTICE
+
+This is a documentation-only demo showcasing the Multi-AI Chat Manager project concept.
+
+INCLUDED CONTENT:
+- Original documentation written specifically for this demo
+- Educational code examples created from scratch
+- Technical diagrams and architectural concepts
+- UI design screenshots (copyright protected)
+- Screen recording demonstration of working prototype (copyright protected)
+
+EXCLUDED CONTENT:
+- No working/executable application code
+- No third-party libraries or frameworks (beyond standard libraries)
+- No user data or sensitive information
+- No package dependencies or node_modules
+
+THIRD-PARTY REFERENCES:
+Code examples use only standard library features:
+- Python: Built-in modules (logging, typing, dataclasses, json, os, pathlib)
+- Node.js: Built-in modules (child_process, events)
+- No external packages like Electron, PIL, or pywin32 are included
+
+Technologies mentioned (Python, Electron, Node.js, Windows API) are referenced
+for educational and architectural documentation purposes only.
+
+COMPLIANCE:
+This demo repository contains:
+- Original documentation and concepts (MIT Licensed)
+- Simplified code examples using standard libraries only (MIT Licensed)
+- Screen recording of working prototype (copyright protected)
+
+All content is original work created specifically for this demonstration.
+
+
+Demo Version: v0.0.1

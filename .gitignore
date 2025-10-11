@@ -1,0 +1,27 @@
+# Demo-specific ignores
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+desktop.ini
+
+# Backup directories
+.bkup
+
+# Helper/utility files (optional - keep locally)
+.watermark-guide.md
+PROTECTION-GUIDE.md
+PUBLISH-CHECKLIST.md
+add-watermark.py
